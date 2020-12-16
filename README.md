@@ -23,5 +23,6 @@ I'm a software developer. I'm from <img src="https://image.flaticon.com/icons/sv
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=havelio&hide=stars&show_icons=true&line_height=32&count_private=true" alt="Havelio's GitHub Stats" />
 </a>
 
+\
 [![Linkedin Badge](https://img.shields.io/badge/-Havelio_Henar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/havelio/)](https://www.linkedin.com/in/havelio/) 
 [![Gmail Badge](https://img.shields.io/badge/-havelioh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:havelioh@gmail.com)](mailto:havelioh@gmail.com)
