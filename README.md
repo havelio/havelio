@@ -1,5 +1,5 @@
 ## Hi there, I'm [Havelio](https://github.com/havelio) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a software developer. I'm from <img src="https://image.flaticon.com/icons/svg/323/323372.svg" width="13"/> Indonesia, living in Jakarta. I currently passionate about iOS application. I know my name is unique. IntegrityError is not mine 😎
+I'm a software developer. I'm from <img src="https://image.flaticon.com/icons/svg/323/323372.svg" width="13"/> Indonesia, living in Jakarta. I know my name is unique. IntegrityError is not mine 😎
 
 ##### 🔧 Technologies & Tools
 ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple)
@@ -19,9 +19,9 @@ I'm a software developer. I'm from <img src="https://image.flaticon.com/icons/sv
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havelio" alt="Havelio's top langs"/>
 </a>
 
-<a href="https://github.com/havelio/havelio">
+<!-- <a href="https://github.com/havelio/havelio">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=havelio&hide=stars&show_icons=true&line_height=32&count_private=true" alt="Havelio's GitHub Stats" />
-</a>
+</a> -->
 
 \
 [![Linkedin Badge](https://img.shields.io/badge/-Havelio_Henar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/havelio/)](https://www.linkedin.com/in/havelio/) 
