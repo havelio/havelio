@@ -1,5 +1,5 @@
 ## Hi there, I'm [Havelio](https://github.com/havelio) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a software developer. I'm from <img src="https://image.flaticon.com/icons/svg/323/323372.svg" width="13"/> Indonesia, living in Jakarta. I know my name is unique. IntegrityError is not mine 😎
+I'm a software engineer. I'm from <img src="https://image.flaticon.com/icons/svg/323/323372.svg" width="13"/> Indonesia, living in Jakarta. I know my name is unique. IntegrityError is not mine 😎
 
 ##### 🔧 Technologies & Tools
 ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple)
