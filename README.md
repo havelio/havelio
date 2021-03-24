@@ -1,5 +1,6 @@
 ## Hi there, I'm [Havelio](https://github.com/havelio) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a software engineer. I'm from <img src="https://image.flaticon.com/icons/svg/323/323372.svg" width="13"/> Indonesia, living in Jakarta. I know my name is unique. IntegrityError is not mine 😎
+I'm a software engineer. I'm from <img src="https://image.flaticon.com/icons/svg/323/323372.svg" width="13"/> Indonesia, living in Jakarta. <br>
+I know my name is unique. IntegrityError is not mine 😎
 
 ##### 🔧 Technologies & Tools
 ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=apple)
@@ -9,7 +10,7 @@ I'm a software engineer. I'm from <img src="https://image.flaticon.com/icons/svg
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=realm)
+![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=realm) <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
